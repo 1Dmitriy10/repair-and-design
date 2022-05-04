@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: "gilroy";
+    src: url("../assets/fonts/Gilroy-Extrabold.ttf");
+}
+body {
+    font-family: gilroy, arial;
+}
+.container {
+    margin: 0 auto;
+    max-width: 1100px;
+    // outline: 1px solid red;
+    margin: 0 auto;
+}
+
+@import "../style/blocks/_header.scss";
+@import "../style/blocks/_work.scss";
+@import "../style/blocks/_footer.scss";
