@@ -78,7 +78,7 @@ body {
 }
 
 .header__logo {
-  background-image: url(../../assets/img/header/header-logo.svg);
+  background-image: url(../assets/img/header/header-logo.svg);
   background-repeat: no-repeat;
   background-position: center;
   width: 30px;
@@ -160,7 +160,7 @@ body {
 }
 
 .header__bg {
-  background-image: url(../../assets/img/header/header-bg.png);
+  background-image: url(./assets/img/header/header-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 344px;
@@ -197,7 +197,7 @@ body {
 }
 
 .header__btn-down {
-  background-image: url(../../assets/img/header/arrow-btn-header.svg);
+  background-image: url(../assets/img/header/arrow-btn-header.svg);
   background-repeat: no-repeat;
   width: 40px;
   height: 40px;
