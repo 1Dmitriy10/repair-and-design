@@ -160,7 +160,7 @@ body {
 }
 
 .header__bg {
-  background-image: url(./assets/img/header/header-bg.png);
+  background-image: url(../assets/img/header/header-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 344px;
