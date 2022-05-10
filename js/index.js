@@ -64,7 +64,7 @@ function remove(e) {
 
     header.style.background = 'none';
 
-    oldBg.style.backgroundImage = `url(../assets/img/header/header-bg.png)`;
+    oldBg.style.backgroundImage = `url(./assets/img/header/header-bg.png)`;
 
     banner.remove()
     ev.forEach(item => {
