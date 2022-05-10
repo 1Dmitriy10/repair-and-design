@@ -2,7 +2,7 @@ export function renderServices() {
     // фон header
     const header = document.querySelector(".header")
     header.style.background =
-        'url(../assets/img/header/services-bg.png)';
+        'url(./assets/img/header/services-bg.png)';
     header.style.backgroundRepeat = "no-repeat";
     header.style.backgroundSize = "cover";
 
